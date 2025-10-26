@@ -80,6 +80,7 @@ Sales Growth %	Growth rate compared to previous period
 Profit Margin	Profit percentage per sale
 Average Order Value	Average revenue per transaction
 Target Achievement	% of target reached by salesperson/region
+
 🚀 Impact:
 
 This dashboard helps organizations:
